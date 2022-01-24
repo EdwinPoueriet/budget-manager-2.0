@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <>
-    Aqui va la app.... proximamente
+    Aqui va la app.... proximamente xd
     </>
   );
 }
